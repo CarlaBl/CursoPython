@@ -1,9 +1,9 @@
 # Curso Intersemestral Python
 
 ## Contenido:
-    1.variables
-    2.condicionales
-    3.listas
-    4.ciclos
+    1.Variables
+    2.Condicionales
+    3.Listas
+    4.Ciclos
     
 
