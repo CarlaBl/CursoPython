@@ -5,5 +5,6 @@
     2.Condicionales
     3.Listas
     4.Ciclos
+    5.Funciones
     
 
